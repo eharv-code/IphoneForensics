@@ -12,3 +12,5 @@ Digging into an imaged iPhone to paticipate in the discovery process of examinin
 An area of opportunity of course would be that despite finding the open-source Autopsy gui very easy to navigate, most investigations prefer proprietary software such as EnCase and FTKimager.
 
 The report document has a table of contents that is easy enough to navigate through however, to summarize: It contains a brief outline of the conspiracy cause of action, details of the iphone, followed by evidence that fits the cause of action, how the evidence relates in a general timeline, and, GPS data plotted on a map.
+
+![Iphone CSI](https://github.com/user-attachments/assets/33800f2a-0d98-431f-9445-efd11e9d7d67)
